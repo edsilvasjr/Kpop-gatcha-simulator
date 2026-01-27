@@ -13,12 +13,12 @@ O sistema utiliza pesos diferentes para tornar a experiência realista:
 
 # 📋 Grupos disponíveis
 
-• Girls Generation
-• Blackpink
-• Twice
-• Red Velvet
-• 2NE1
-• Aespa
+  • Girls Generation
+  • Blackpink
+  • Twice
+  • Red Velvet
+  • 2NE1
+  • Aespa
 
 # 🛠️ Tecnologias Utilizadas
      
