@@ -8,21 +8,22 @@ O jogo permite que você escolha um grupo específico e gaste créditos para "at
 
 O sistema utiliza pesos diferentes para tornar a experiência realista:
 
-# • Itens Comuns (90% de chance): Poster, Sticker, Fanart, Mini poster.
-# • Photocards Raros (10% de chance): Integrantes do grupo escolhido.
+ • Itens Comuns (90% de chance): Poster, Sticker, Fanart, Mini poster.
+ • Photocards Raros (10% de chance): Integrantes do grupo escolhido.
 
 # 📋 Grupos disponíveis
 
-    • Girls Generation
-    • Blackpink
-    • Twice
-    • Red Velvet
-    • 2NE1
-    • Aespa
+• Girls Generation
+• Blackpink
+• Twice
+• Red Velvet
+• 2NE1
+• Aespa
+
 # 🛠️ Tecnologias Utilizadas
      
-     • Python
-     • Biblioteca random (para a lógica de sorteio e pesos)
+• Python
+• Biblioteca random (para a lógica de sorteio e pesos)
 
 # 🔧 Como executar
 
